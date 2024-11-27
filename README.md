@@ -1,2 +1,2 @@
 # paragon
-js for onetap v4
+for otv4
